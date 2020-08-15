@@ -13,14 +13,11 @@ body{
      box-sizing: border-box;
 
      background-color: #0e0b16;
-     background: url(/Flat-Field.jpg);
+     background: url(Flat-Field.png);
      background-attachment: fixed;
      background-size: 100%;
-     animation: slide 10s reverse;
 }
-@keyframes slide{
-     
-}
+
 div.frase{
           text-align: center;
           justify-content: center;
